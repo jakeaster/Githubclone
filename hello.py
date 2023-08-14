@@ -1,3 +1,3 @@
-msg = "hello world"
+msg = "hello world lol"
 
 print (msg)
